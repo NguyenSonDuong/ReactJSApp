@@ -1,5 +1,5 @@
 .App {
-  text-align: center;
+  display: inline;;
 }
 
 .App-logo {
@@ -27,7 +27,9 @@
 .App-link {
   color: #61dafb;
 }
-
+.card_style{
+  
+}
 @keyframes App-logo-spin {
   from {
     transform: rotate(0deg);
